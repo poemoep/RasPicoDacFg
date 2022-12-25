@@ -4,11 +4,7 @@
 # Setup
 * Raspberry Pi Pico
 * Orignal Hardware (16bit R-2R Ladder DAC)
-<<<<<<< HEAD
 <img src="Doc/pic/RasPicoDacFg.png" width="500">  
-=======
-<img src="Doc/pic/RasPicoDacFG.png" width="500">  
->>>>>>> a9ee2ec4385f84234986b178d66dd4d98bfa09ea
 
 # DAC spec
 * Voltage range: 0 ~ 10 V(typ)
