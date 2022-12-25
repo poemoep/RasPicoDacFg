@@ -1,0 +1,7 @@
+Some parts is different from the circuit diagram.
+・R1 ~ R52 changed to 0.1% accuracy products
+・IC2 changed to zero-drift operational amplifier
+
+330 ohms 0.1% (1.6mm x 0.8mm): ERJ-PB3B3300V
+1 kohms 0.1% (1.6mm x 0.8mm): RN73R1JTTD1001B25
+IC2 : MAX44250AUK+T
